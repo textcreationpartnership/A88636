@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the right honourable Sir Thomas Lane, Kt Lord-Mayor elect for the city of London, at Guild-Hall, upon Michaelmas-day. 1694</title>
+            <author>Lane, Thomas, Sir, 1652-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88636</idno>
+            <idno type="STC">Wing L341A</idno>
+            <idno type="STC">ESTC R230372</idno>
+            <idno type="EEBO-CITATION">99899580</idno>
+            <idno type="PROQUEST">99899580</idno>
+            <idno type="VID">154023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the right honourable Sir Thomas Lane, Kt Lord-Mayor elect for the city of London, at Guild-Hall, upon Michaelmas-day. 1694</title>
+                  <author>Lane, Thomas, Sir, 1652-1709.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Cockerill, at the Three Legs in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIV. [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:154023:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <head>THE SPEECH Of the Right Honourable Sir THOMAS LANE, K<hi rend="sup">t</hi> 
+               <hi>Lord-Mayor Elect</hi> For the CITY of <hi>LONDON,</hi> At <hi>Guild-Hall,</hi> upon <hi>Michaelmas-day.</hi> 1694.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Acknowledge your extraordinary Re<g ref="char:EOLhyphen"/>ſpects in Chuſing Me to Serve You in the Higheſt Station of your Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>I am very ſenſible of my own Un<g ref="char:EOLhyphen"/>fitneſs for ſo great an Employment, and could have much rather choſe a Retirement; but ſince you will have it ſo, I ſhall, by God's Aſſiſtance, apply My ſelf to the Work you have called Me.</p>
+            <p>And for the carrying of it on, I will take the beſt Advice and Direction of my Honoured Brethren of the Court of Aldermen; and, on every emergent Occaſion, call in the Aſſiſtance of your Repreſentatives, the Com<g ref="char:EOLhyphen"/>mon-Councel.</p>
+            <pb n="2" facs="tcp:154023:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>And, <hi>Gentlemen,</hi> I deſire your moſt Free Acceſs unto me at all times: For what <hi>By-Laws</hi> you will have Made, or Repeal'd, I will readily call a Common-Council, as oft as you ſhall deſire.</p>
+            <p>One thing I muſt beg of you, That as I ſhall always <hi>Deſign</hi> and <hi>Endeavour</hi> nothing but the Publick Good, ſo let my Actions receive a Favourable Conſtruction; and think me not ſo unworthy as to employ the Power and Truſt you have inveſted in me, to your Prejudice.</p>
+            <p>I ſhall be ambitious to follow my Worthy Predeceſſor in all the Good Ends of Government, though I deſpair of coming up to his Great Example.</p>
+            <p>If Emulation be Commendable upon any Account, it muſt certainly be upon ſo good a one, as doing the Beſt Service for the Greateſt City in <hi>Europe,</hi> and for ſuch Fellow-Citizens as have in the Worſt of Times expoſed Themſelves to the Greateſt Dangers for the Defence of their Religion and Liberties.</p>
+            <p>May the ſame Noble Principles ſtill inſpire you with a True Zeal for God, your King, and Country; and may the Glorious King <hi>William</hi> and Queen <hi>Mary</hi> always be Happy in the utmoſt of your Affections and Aſſiſtances, that the Tranquility of this City, and of the Nation in general may Flouriſh.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Tho. Cockerill,</hi> at the <hi>Three Legs</hi> in the <hi>Poultry.</hi> MDCXCIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
